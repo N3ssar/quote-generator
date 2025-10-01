@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Primary SEO Tags -->
+    <title>Random Quote Generator - Daily Inspiration & Motivational Quotes</title>
+    <meta name="title" content="Random Quote Generator - Daily Inspiration & Motivational Quotes">
+    <meta name="description"
+        content="Discover endless inspiration with our elegant Random Quote Generator. Get motivational quotes, wisdom, and daily inspiration at the click of a button. Features auto-generation mode for continuous inspiration.">
+    <meta name="keywords"
+        content="random quotes, quote generator, inspirational quotes, motivational quotes, daily inspiration, wisdom quotes, auto quote generator, famous quotes, life quotes">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="author" content="Your Name">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yourwebsite.com/">
+    <meta property="og:title" content="Random Quote Generator - Daily Inspiration & Motivational Quotes">
+    <meta property="og:description"
+        content="Discover endless inspiration with our elegant Random Quote Generator. Get motivational quotes and daily wisdom at the click of a button.">
+    <meta property="og:image" content="https://yourwebsite.com/preview-image.jpg">
+    <meta property="og:site_name" content="Random Quote Generator">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://yourwebsite.com/">
+    <meta property="twitter:title" content="Random Quote Generator - Daily Inspiration">
+    <meta property="twitter:description"
+        content="Get your daily dose of inspiration with our elegant Random Quote Generator. Features auto-generation mode.">
+    <meta property="twitter:image" content="https://yourwebsite.com/preview-image.jpg">
+
+    <!-- Additional Meta Tags -->
+    <meta name="theme-color" content="#1a1a2e">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://yourwebsite.com/">
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+
+        <!-- Favicon -->
+        <link rel="icon" type="image/x-icon" href="quote-bubble-fill-svgrepo-com.svg">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <main class="app-container">
+        <header class="app-header">
+            <h1 class="app-title">Random Quote Generator</h1>
+            <p class="app-subtitle">Discover Daily Inspiration</p>
+        </header>
+
+        <article class="quote-generator" role="main" aria-label="Quote Display Area">
+            <span class="quote-id" aria-label="Quote Number">0</span>
+            <blockquote class="quote-display" cite="Random Quote Generator">
+                <p class="quote-text">Quote will appear here</p>
+                <cite class="quote-author">
+                    Author Name
+                </cite>
+            </blockquote>
+
+            <nav class="buttons" role="navigation" aria-label="Generator Controls">
+                <button class="button generate" aria-label="Generate New Quote" type="button">
+                    Generate Quote
+                </button>
+                <button class="button auto" aria-label="Start Auto Generation" type="button">
+                    Auto Generate
+                </button>
+                <button class="button stop" aria-label="Stop Auto Generation" type="button">
+                    Stop Generate
+                </button>
+            </nav>
+        </article>
+
+        <footer class="app-footer">
+            <p class="auto-status" role="status" aria-live="polite"></p>
+            <p >Total Quotes Generated: <span class="quote-count">0</span></p>
+            <p>Made by <a href="https://www.linkedin.com/in/muhammad-ahmad-nassar/" target="_blank">Muhammad Nassar</a></p>
+        </footer>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

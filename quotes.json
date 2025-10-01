@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "quote": "The best revenge is to improve yourself.",
+    "author": "Imam Ali"
+  },
+  {
+    "id": 2,
+    "quote": "He who knows himself, knows his Lord.",
+    "author": "Saying of the wise"
+  },
+  {
+    "id": 3,
+    "quote": "Patience is the key to joy.",
+    "author": "Rumi"
+  },
+  {
+    "id": 4,
+    "quote": "A single day of a wise man is more valuable than the whole life of a fool.",
+    "author": "Arabian Proverb"
+  },
+  {
+    "id": 5,
+    "quote": "Do not be a slave to others when you were born free.",
+    "author": "Imam Ali"
+  },
+  {
+    "id": 6,
+    "quote": "Raise your words, not your voice. It is rain that grows flowers, not thunder.",
+    "author": "Rumi"
+  },
+  {
+    "id": 7,
+    "quote": "The ink of the scholar is more sacred than the blood of the martyr.",
+    "author": "Islamic Proverb"
+  },
+  {
+    "id": 8,
+    "quote": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "id": 9,
+    "quote": "A moment of patience in a moment of anger prevents a thousand moments of regret.",
+    "author": "Imam Ali"
+  },
+  {
+    "id": 10,
+    "quote": "What is destined will reach you, even if it is beneath two mountains.",
+    "author": "Imam Al-Ghazali"
+  },
+  {
+    "id": 11,
+    "quote": "The greatest struggle is to battle your own soul.",
+    "author": "Saying of the wise"
+  },
+  {
+    "id": 12,
+    "quote": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+    "author": "Rumi"
+  },
+  {
+    "id": 13,
+    "quote": "Knowledge without action is useless, and action without knowledge is foolishness.",
+    "author": "Imam Al-Ghazali"
+  },
+  {
+    "id": 14,
+    "quote": "The less you speak, the more you will hear.",
+    "author": "Proverb"
+  },
+  {
+    "id": 15,
+    "quote": "The wound is the place where the Light enters you.",
+    "author": "Rumi"
+  },
+  {
+    "id": 16,
+    "quote": "A wise person learns from the mistakes of others, a fool learns from their own.",
+    "author": "Proverb"
+  },
+  {
+    "id": 17,
+    "quote": "Kindness is a language which the deaf can hear and the blind can see.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 18,
+    "quote": "Silence is the sleep that nourishes wisdom.",
+    "author": "Francis Bacon"
+  },
+  {
+    "id": 19,
+    "quote": "The cure for ignorance is to ask questions.",
+    "author": "Ibn Sina"
+  },
+  {
+    "id": 20,
+    "quote": "The pen is the tongue of the mind.",
+    "author": "Ibn Khaldun"
+  },
+  {
+    "id": 21,
+    "quote": "Having a thousand friends is not a miracle. A miracle is having one friend who will stand by you when thousands are against you.",
+    "author": "Imam Ali"
+  },
+  {
+    "id": 22,
+    "quote": "The harder the struggle, the more glorious the triumph.",
+    "author": "Proverb"
+  },
+  {
+    "id": 23,
+    "quote": "A single conversation with a wise person is better than ten years of study.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "id": 24,
+    "quote": "In the darkest nights, stars shine more brightly.",
+    "author": "Proverb"
+  },
+  {
+    "id": 25,
+    "quote": "Fall down seven times, stand up eight.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "id": 26,
+    "quote": "Real wealth is not having many possessions, but having few wants.",
+    "author": "Epictetus"
+  },
+  {
+    "id": 27,
+    "quote": "To speak less is wisdom, to eat less is healthy, and to mingle less is safe.",
+    "author": "Umar ibn al-Khattab"
+  },
+  {
+    "id": 28,
+    "quote": "Through patience, great things are accomplished.",
+    "author": "Imam Ali"
+  },
+  {
+    "id": 29,
+    "quote": "Tears of repentance can wash away bad deeds.",
+    "author": "Islamic Proverb"
+  },
+  {
+    "id": 30,
+    "quote": "Anger is a wind which blows out the lamp of the mind.",
+    "author": "Proverb"
+  },
+  {
+    "id": 31,
+    "quote": "Forgiveness is the best form of revenge.",
+    "author": "Imam Ali"
+  },
+  {
+    "id": 32,
+    "quote": "Good character is the best of companions.",
+    "author": "Islamic Proverb"
+  },
+  {
+    "id": 33,
+    "quote": "If you wish to be a writer, write.",
+    "author": "Epictetus"
+  },
+  {
+    "id": 34,
+    "quote": "A beautiful person has a beautiful heart.",
+    "author": "Proverb"
+  },
+  {
+    "id": 35,
+    "quote": "A wise man can distinguish between the possible and the impossible.",
+    "author": "Ibn Khaldun"
+  },
+  {
+    "id": 36,
+    "quote": "The desire for knowledge is the beginning of wisdom.",
+    "author": "Proverb"
+  },
+  {
+    "id": 37,
+    "quote": "Beauty is not in the face; beauty is a light in the heart.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "id": 38,
+    "quote": "Don't grieve. Anything you lose comes round in another form.",
+    "author": "Rumi"
+  },
+  {
+    "id": 39,
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius"
+  },
+  {
+    "id": 40,
+    "quote": "The tongue is small, but its mistakes can be great.",
+    "author": "Imam Al-Ghazali"
+  },
+  {
+    "id": 41,
+    "quote": "He who is patient is victorious.",
+    "author": "Proverb"
+  },
+  {
+    "id": 42,
+    "quote": "It is not the mountain we conquer, but ourselves.",
+    "author": "Edmund Hillary"
+  },
+  {
+    "id": 43,
+    "quote": "The bigger the mind, the less it is offended.",
+    "author": "Proverb"
+  },
+  {
+    "id": 44,
+    "quote": "If you want to know a person's character, see how they treat those who can do nothing for them.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "id": 45,
+    "quote": "Your heart is the size of an ocean. Go find yourself in its hidden depths.",
+    "author": "Rumi"
+  },
+  {
+    "id": 46,
+    "quote": "Do good, and good will come to you.",
+    "author": "Proverb"
+  },
+  {
+    "id": 47,
+    "quote": "A little knowledge that is used is worth more than much knowledge that is idle.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "id": 48,
+    "quote": "What you seek is seeking you.",
+    "author": "Rumi"
+  },
+  {
+    "id": 49,
+    "quote": "Doubt is the key to knowledge.",
+    "author": "Persian Proverb"
+  },
+  {
+    "id": 50,
+    "quote": "The fool wonders, the wise man asks.",
+    "author": "Proverb"
+  },
+  {
+    "id": 51,
+    "quote": "A person's true measure is their will.",
+    "author": "Imam Ali"
+  },
+  {
+    "id": 52,
+    "quote": "A wise man makes his own decisions, an ignorant man follows public opinion.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "id": 53,
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "id": 54,
+    "quote": "When you know yourself, you are empowered. When you accept yourself, you are invincible.",
+    "author": "Tina Lifford"
+  },
+  {
+    "id": 55,
+    "quote": "Say only what is necessary and in few words.",
+    "author": "Epictetus"
+  },
+  {
+    "id": 56,
+    "quote": "True silence is the rest of the mind.",
+    "author": "William Penn"
+  },
+  {
+    "id": 57,
+    "quote": "Be like a tree and let the dead leaves drop.",
+    "author": "Rumi"
+  },
+  {
+    "id": 58,
+    "quote": "He who has health has hope; and he who has hope has everything.",
+    "author": "Arabian Proverb"
+  },
+  {
+    "id": 59,
+    "quote": "Life is a journey, not a destination.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 60,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 61,
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates"
+  },
+  {
+    "id": 62,
+    "quote": "An empty mind is a workshop for mischief.",
+    "author": "Imam Al-Ghazali"
+  },
+  {
+    "id": 63,
+    "quote": "Justice is the soul of a nation.",
+    "author": "Proverb"
+  },
+  {
+    "id": 64,
+    "quote": "To change the world, start with yourself.",
+    "author": "Proverb"
+  },
+  {
+    "id": 65,
+    "quote": "Honesty is the best policy.",
+    "author": "Proverb"
+  },
+  {
+    "id": 66,
+    "quote": "It is not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "id": 67,
+    "quote": "The pen is mightier than the sword.",
+    "author": "Proverb"
+  },
+  {
+    "id": 68,
+    "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman"
+  },
+  {
+    "id": 69,
+    "quote": "The heart that knows contentment is always rich.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "id": 70,
+    "quote": "A good deed is never lost.",
+    "author": "Proverb"
+  },
+  {
+    "id": 71,
+    "quote": "Knowledge speaks, but wisdom listens.",
+    "author": "Jimi Hendrix"
+  },
+  {
+    "id": 72,
+    "quote": "Control your anger, and you will conquer your enemy.",
+    "author": "Proverb"
+  },
+  {
+    "id": 73,
+    "quote": "He who opens a school door, closes a prison.",
+    "author": "Victor Hugo"
+  },
+  {
+    "id": 74,
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 75,
+    "quote": "Time is the most valuable thing a person can spend.",
+    "author": "Theophrastus"
+  },
+  {
+    "id": 76,
+    "quote": "True wealth is the health of the soul.",
+    "author": "Proverb"
+  },
+  {
+    "id": 77,
+    "quote": "A smooth sea never made a skilled sailor.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 78,
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "id": 79,
+    "quote": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "id": 80,
+    "quote": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 81,
+    "quote": "Don’t judge each day by the harvest you reap but by the seeds that you plant.",
+    "author": "Robert Louis Stevenson"
+  },
+  {
+    "id": 82,
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 83,
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 84,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 85,
+    "quote": "To handle yourself, use your head; to handle others, use your heart.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 86,
+    "quote": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "id": 87,
+    "quote": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 88,
+    "quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "author": "Aristotle"
+  },
+  {
+    "id": 89,
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 90,
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "id": 91,
+    "quote": "The person who removes a mountain begins by carrying away small stones.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "id": 92,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 93,
+    "quote": "What we think, we become.",
+    "author": "Proverb"
+  },
+  {
+    "id": 94,
+    "quote": "The obstacle is the way.",
+    "author": "Stoic Proverb"
+  },
+  {
+    "id": 95,
+    "quote": "Waste no more time arguing about what a good person should be. Be one.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 96,
+    "quote": "A goal without a plan is just a wish.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "id": 97,
+    "quote": "Fortune favors the bold.",
+    "author": "Latin Proverb"
+  },
+  {
+    "id": 98,
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "id": 99,
+    "quote": "Well done is better than well said.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 100,
+    "quote": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn"
+  }
+]
