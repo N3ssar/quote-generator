@@ -8,6 +8,7 @@ const quoteText = document.querySelector(".quote-text");
 const quoteAuthor = document.querySelector(".quote-author");
 const autoStatus = document.querySelector(".auto-status");
 const generatedQuoteCounter = document.querySelector(".quote-count");
+const copyButton = document.querySelector(".copy-button");
 //Variables
 let quotesCache = [];
 let count = Number(generatedQuoteCounter?.innerText) || 0;
@@ -34,7 +35,7 @@ async function generateQuote() {
     } while (randomQuote.id === lastQuoteId && quotes.length > 1);
     lastQuoteId === randomQuote.id;
     displayQuote(randomQuote);
-    generatedQuoteCounter && (generatedQuoteCounter.innerText = `${count++}`);
+    generatedQuoteCounter && (generatedQuoteCounter.innerText = `${++count}`);
 }
 async function autoGenerateQuote() {
     if (intervalId)
@@ -47,7 +48,18 @@ function stopGeneration() {
     clearInterval(intervalId);
     autoStatus && (autoStatus.innerText = "");
 }
+function copyQuote() {
+    const quoteText = document.querySelector(".quote-text");
+    if (!quoteText || quoteText.innerText === "Quote will appear here")
+        return;
+    navigator.clipboard.writeText(quoteText.innerText);
+    copyButton && copyButton.classList.add("copied");
+    setTimeout(() => {
+        copyButton && copyButton.classList.remove("copied");
+    }, 3000);
+}
 // Event Listeners
 generateButton?.addEventListener("click", generateQuote);
 autoGenerateButton?.addEventListener("click", autoGenerateQuote);
 stopGenerateButton?.addEventListener("click", stopGeneration);
+copyButton?.addEventListener("click", copyQuote);

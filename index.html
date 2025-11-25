@@ -49,8 +49,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
         rel="stylesheet">
 
-        <!-- Favicon -->
-        <link rel="icon" type="image/x-icon" href="quote-bubble-fill-svgrepo-com.svg">
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="quote-bubble-fill-svgrepo-com.svg">
 
     <link rel="stylesheet" href="main.css">
 </head>
@@ -65,6 +65,9 @@
         <article class="quote-generator" role="main" aria-label="Quote Display Area">
             <span class="quote-id" aria-label="Quote Number">0</span>
             <blockquote class="quote-display" cite="Random Quote Generator">
+                <button id="copy-button" class="copy-button" aria-label="Copy Quote" type="button">
+                    <img src="copy.svg" title="Copy Quote" alt="Copy Quote">
+                </button>
                 <p class="quote-text">Quote will appear here</p>
                 <cite class="quote-author">
                     Author Name
@@ -86,8 +89,9 @@
 
         <footer class="app-footer">
             <p class="auto-status" role="status" aria-live="polite"></p>
-            <p >Total Quotes Generated: <span class="quote-count">0</span></p>
-            <p>Made by <a href="https://www.linkedin.com/in/muhammad-ahmad-nassar/" target="_blank">Muhammad Nassar</a></p>
+            <p>Total Quotes Generated: <span class="quote-count">0</span></p>
+            <p>Made by <a href="https://www.linkedin.com/in/muhammad-ahmad-nassar/" target="_blank">Muhammad Nassar</a>
+            </p>
         </footer>
     </main>
 
